@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viral TikTok Editor"
+  short_description: "Edit Hebrew Reels with B-roll and a CapCut handoff"
+  default_prompt: "Use $viral-tiktok-editor to edit my video for Reels and TikTok with a strong opening, accurate Hebrew captions, relevant B-roll, quiet music, and an editable CapCut project opened for review."
